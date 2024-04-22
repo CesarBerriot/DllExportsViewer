@@ -17,20 +17,29 @@ Requirements :
 
 Instructions :
 - Generate the project for your favorite IDE
-- Set the binaries folder to ./bin/
+- Set the binaries folder to ``./bin/``
 - Build
 
 ---
 
 ### Donations
-<div>
-    <i><h2 style="text-align: center; margin-top: 0px; padding-top: 0px">Paypal</h2></i>
-    <div style="text-align: center; justify-content: center; width: 100%; align-items: center">  
-        <form action="https://www.paypal.com/donate" method="post" target="_top">
-            <input type="hidden" name="hosted_button_id" value="E4MPSYVCAYYSS" />
-            <input type="image" src="https://www.paypalobjects.com/en_US/FR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-            <img alt="" border="0" src="https://www.paypal.com/en_FR/i/scr/pixel.gif" width="1" height="1" />
-        </form>
-        <img src="readme_resources/donation_paypal_qr.png" style="align-content: center; width: 170px">
-    </div>
-</div>
+
+<i>
+    <h3 align="center" style="margin-top: 0px; padding-top: 0px">
+        PayPal
+    </h3>
+</i>
+<p align="center">
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4MPSYVCAYYSS">
+        <image 
+            src="https://www.paypalobjects.com/en_US/FR/i/btn/btn_donateCC_LG.gif" 
+            border="0"
+            name="submit"
+            title="PayPal - The safer, easier way to pay online!" 
+            alt="Donate with PayPal button" 
+        />
+    </a>
+</p>
+<p align="center">
+    <img src="readme_resources/donation_paypal_qr.png" style="align-content: center; width: 170px">
+</p>
