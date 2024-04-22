@@ -1,0 +1,6 @@
+Those were originally for qmc2, a ui frontend project for the MAME emulator which sadly died off around early 2023.
+I made some modifications so they can be compatible with my software.
+None of them had a license along with the theme files.
+Here are the latest valid wayback machine archives I could get my hands on :
+(Feb 17 2023) https://web.archive.org/web/20230217025301/https://qmc2.batcom-it.net/index.php/style-sheets/
+(Sep 10 2015) https://web.archive.org/web/20150910195310/http://qmc2.arcadehits.net/wordpress/style-sheets/

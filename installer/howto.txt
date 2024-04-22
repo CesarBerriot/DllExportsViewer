@@ -1,0 +1,22 @@
+Step 1 : 
+Download NSIS (https://nsis.sourceforge.io/Download)
+
+Step 2 :
+Compile the program (This is basic CMake knowledge, just google how it's done).
+
+Step 3 :
+Copy the following from your build folder into the bin folder :
+- plugins/
+- DllExportsViewer.exe
+- libgcc_s_seh-1.dll
+- libstdc++-6.dll
+- libwinpthread-1.dll
+- Qt6Core.dll
+- Qt6Gui.dll
+- Qt6Widgets.dll
+
+Step 3.5 (Optional) :
+Run bin/DllExportsViewer.exe and make sure you don't get any missing dll errors (which most likely means you forgot something).
+
+Step 4 :
+Right click DllExportsViewer.nsi and select "Compile NSIS Script"

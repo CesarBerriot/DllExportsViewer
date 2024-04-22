@@ -1,0 +1,1 @@
+include(${CMAKE_CURRENT_LIST_DIR}/themes/include_all.cmake)

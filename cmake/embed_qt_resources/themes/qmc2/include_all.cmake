@@ -1,0 +1,6 @@
+include(${CMAKE_CURRENT_LIST_DIR}/themes/black.cmake)
+include(${CMAKE_CURRENT_LIST_DIR}/themes/diefer.cmake)
+include(${CMAKE_CURRENT_LIST_DIR}/themes/fire.cmake)
+include(${CMAKE_CURRENT_LIST_DIR}/themes/metal.cmake)
+include(${CMAKE_CURRENT_LIST_DIR}/themes/sandy.cmake)
+include(${CMAKE_CURRENT_LIST_DIR}/themes/xmas.cmake)

@@ -1,0 +1,4 @@
+.idea
+bin
+installer/*.exe
+installer/bin
